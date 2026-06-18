@@ -1,0 +1,189 @@
+:root {
+  color-scheme: light;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: #f8fafc;
+  color: #111827;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+.page-shell {
+  padding: 24px;
+}
+
+.app-shell {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.hero {
+  margin-bottom: 24px;
+  padding: 24px;
+  border-radius: 18px;
+  background: #ffffff;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+}
+
+.hero h1 {
+  margin: 0 0 12px;
+  font-size: clamp(2rem, 3vw, 2.75rem);
+  line-height: 1.05;
+}
+
+.description {
+  margin: 0;
+  max-width: 58rem;
+  color: #4b5563;
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+.content-section {
+  background: #ffffff;
+  border-radius: 18px;
+  padding: 20px;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
+}
+
+.table-wrapper {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 760px;
+}
+
+thead th:empty {
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--table-border);
+}
+
+th {
+  background: #f8fafc;
+  font-weight: 600;
+}
+
+/* Group header styling */
+:root {
+  --utbt-bg: #dbeafe; /* pastel blue */
+  --utbt-accent: #1e40af;
+  --i4g-bg: #ffe4e6; /* pastel red/pink */
+  --i4g-accent: #9b1c1c;
+}
+
+.table-wrapper thead tr:first-child th {
+  text-align: center;
+}
+
+
+th.group-utbt,
+th.utbt-sub {
+  background: var(--utbt-bg);
+  color: var(--utbt-accent);
+}
+
+th.group-i4g,
+th.i4g-sub {
+  background: var(--i4g-bg);
+  color: var(--i4g-accent);
+}
+
+/* Center subheaders */
+th.utbt-sub,
+th.i4g-sub {
+  text-align: center;
+  border-right: 1px solid var(--table-border);
+}
+
+th.diff-header,
+td.diff-value {
+  text-align: center;
+}
+
+.sortable {
+  cursor: pointer;
+}
+
+.sortable:hover {
+  background: #f3f4f6;
+}
+
+.sorted-asc,
+.sorted-desc {
+  text-decoration: underline;
+}
+
+.summary {
+  margin: 12px 0 0;
+  color: #374151;
+  font-weight: 500;
+}
+
+.pagination-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 18px;
+  gap: 12px;
+}
+
+.pagination-controls button {
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+  padding: 10px 16px;
+  background: #ffffff;
+  color: #111827;
+  cursor: pointer;
+}
+
+.pagination-controls button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.pagination-summary {
+  color: #4b5563;
+  font-weight: 500;
+}
+
+/* Table border color */
+:root {
+  --table-border: #bfc6cf; /* slightly darker neutral grey */
+}
+
+/* Vertical separator between UTBT and i4G groups */
+.table-wrapper thead tr:first-child th.group-utbt {
+  border-right: 1px solid var(--table-border);
+}
+.table-wrapper thead tr:nth-child(2) th:nth-child(3) {
+  border-right: 1px solid var(--table-border);
+}
+.table-wrapper tbody td:nth-child(6) {
+  border-right: 1px solid var(--table-border);
+}
+
+tbody tr:hover {
+  background: #f9fafb;
+}
+
+.error {
+  color: #b91c1c;
+  font-weight: 600;
+}
+
+.empty-state {
+  color: #6b7280;
+}
