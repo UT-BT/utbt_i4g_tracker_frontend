@@ -1,6 +1,6 @@
 metric,value
-run_timestamp_utc,2026-07-06T02:31:45.965407+00:00
-total_runtime_seconds,74.43
+run_timestamp_utc,2026-07-06T15:17:24.770311+00:00
+total_runtime_seconds,92.91
 i4g_pages_limit,
 i4g_pages_scraped,123
 i4g_scrape_complete,True
@@ -16,5 +16,5 @@ records_remaining_count,699
 i4g_records_remaining_pct,28.66
 i4g_records_remaining_pct_of_site_total,28.40
 utbt_bulk_api_calls,1
-utbt_bulk_map_count,2949
+utbt_bulk_map_count,2950
 max_workers,20
