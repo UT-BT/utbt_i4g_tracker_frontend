@@ -2,6 +2,7 @@ map,record,member,date
 CTF-BT(ds)RRF,37.281,Nightwolf`,2017-06-28
 CTF-BT+(alc)DeepSpace_v2,02:56.854,~DarK~JoJo~,2026-03-03
 CTF-BT+(alc)Genetics-v1,04:12.607,Nightwolf`,2012-07-31
+CTF-BT+(alc)TheEvulYard,04:01.939,OwYeaW,2016-11-20
 CTF-BT+(alc-NB)UnlimitedWorlds_i4g,05:58.057,OwYeaW,2016-04-27
 CTF-BT+(bar)code-fix,03:03.997,Dylanbro,2022-01-27
 CTF-BT+(bar)WoW-dbl,02:53.336,~DarK~JoJo~,2025-06-04
@@ -73,6 +74,7 @@ CTF-BT+(MW)-Sentry,01:51.400,p-a-w-e-l,2021-07-10
 CTF-BT+(NB)HauntedHill,03:26.365,}ElitE{Bon,2022-11-04
 CTF-BT+(NB)NoviceCrypt-v2,01:35.293,}ElitE{Bon,2016-11-06
 CTF-BT+(NB)NoviceCrypt-vEZ,01:34.941,}ElitE{Bon,2016-11-06
+CTF-BT+(NB)NoviceStyle,01:40.159,}ElitE{Mike`,2022-08-11
 CTF-BT+(NEO)FireTemple,01:12.745,~DarK~JoJo~,2026-01-23
 CTF-BT+(NEO)ForestTemple-v2,02:47.359,Nightwolf`,2013-04-05
 CTF-BT+(ow)Bounceng-v3,27.207,*WeeDy*,2022-12-09
@@ -610,7 +612,6 @@ CTF-BT-(MMI)Jumping-4-noobs-18YR,06.560,Dylanbro,2024-05-28
 CTF-BT-(Mon)CBA4ITtbfh][_i4g,01:10.187,}ElitE{Bon,2020-10-29
 CTF-BT-(Mon-Ch)AbilitaPunteria,01:25.744,OwYeaW,2017-06-05
 CTF-BT-(Mon-Ch)Basics_i4g,51.348,~DarK~JoJo~,2026-03-31
-CTF-BT-(Mon-Ch)Still-BorN-v2,01:37.864,}ElitE{Mike`,2014-12-24
 CTF-BT-(Mon-wB)Cursed-Tomb,02:45.985,}ElitE{Mike`,2017-11-01
 CTF-BT-(Mon-wB)WTFisThISShIT_i4g-vF,40.530,Dylanbro,2011-06-29
 CTF-BT-(Moz)CrypT_dbl,17.606,}ElitE{HellFire`,2017-10-14
@@ -1086,7 +1087,6 @@ CTF-BT-B][G-DacianFalx-fix,01:05.723,}ElitE{Bon,2020-11-05
 CTF-BT-BackOnMars-V1,01:15.172,BlueBalls,2021-12-22
 CTF-BT-Backrooms,01:59.282,~DarK~JoJo~,2023-12-28
 CTF-BT-BackToBasics-v2,02:00.089,Nightwolf`,2022-04-20
-CTF-BT-BadBlood,01:31.177,Nightwolf`,2022-03-20
 CTF-BT-BamboozledBunneeJumper_dbl,01:02.747,Nightwolf`,2012-08-21
 CTF-BT-BananacaekV2,41.359,}ElitE{Bon,2021-09-07
 CTF-BT-Bananas-v2,01:37.167,Nightwolf`,2014-10-19
@@ -2347,7 +2347,6 @@ CTF-BT-Yoona,01:34.713,~DarK~JoJo~,2025-06-14
 CTF-BT-Yoshi_Ikuzo,53.977,}ElitE{Bon,2020-11-04
 CTF-BT-YouAreDoomed-Fixed,47.189,}ElitE{Bon,2020-09-13
 CTF-BT-YouAreFocked_fixed,57.627,}ElitE{HellFire`,2013-04-21
-CTF-BT-YouAreLOL,54.405,}ElitE{Bon,2021-05-31
 CTF-BT-YouAreOnCoke,02:24.400,Dylanbro,2011-03-19
 CTF-BT-YuLiberte,01:49.620,}ElitE{Bon,2017-12-27
 CTF-BT-Yus,34.855,Nightwolf`,2021-05-22
