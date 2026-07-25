@@ -702,6 +702,7 @@ CTF-BT-(Pat)DontStop-v2,01:15.447,p-a-w-e-l,2020-08-14
 CTF-BT-(Pat)MiniMap,26.396,Nightwolf`,2014-10-05
 CTF-BT-(Phan)Volcano-v2,01:20.312,Nightwolf`,2012-09-29
 CTF-BT-(PL)Egypt,59.575,}ElitE{Bon,2013-06-29
+CTF-BT-(PL)w00tw00t_fix,26.839,}ElitE{Bon,2022-02-11
 CTF-BT-(Plat)Infinity-i4g,16.345,Nightwolf`,2016-11-09
 CTF-BT-(Provo)Fun2011,35.566,Dylanbro,2017-12-30
 CTF-BT-(Provo)NoobRush_i4g,08.067,~DarK~JoJo~,2025-12-07
@@ -733,6 +734,7 @@ CTF-BT-(Roel)Legoism,56.565,Zla_Bakica,2022-06-30
 CTF-BT-(Roel)NewYear2011-v2,51.372,Nightwolf`,2013-04-21
 CTF-BT-(Roel)SkyHigh-v2,01:15.034,~DarK~JoJo~,2025-02-04
 CTF-BT-(Roel)SpeedOfLight-v3,02:20.342,}ElitE{Mike`,2009-09-18
+CTF-BT-(Roel)SplitSecond-v2,20.218,Nightwolf`,2013-05-11
 CTF-BT-(Roel)TwoCastles,04:58.003,Nightwolf`,2019-03-23
 CTF-BT-(Roel)Vertical,02:14.736,Nightwolf`,2014-10-24
 CTF-BT-(room3)SpecialPulsion-fix,11.081,Nightwolf`,2022-03-13
@@ -1062,6 +1064,7 @@ CTF-BT-Archaeology,04:06.144,Nightwolf`,2012-09-20
 CTF-BT-Ardon,01:21.920,}ElitE{HellFire`,2021-09-11
 CTF-BT-Area21,01:03.219,Nightwolf`,2019-05-10
 CTF-BT-ARG=V1=_fix2,49.205,Nightwolf`,2012-10-14
+CTF-BT-Argos,01:12.860,}ElitE{Bon,2017-06-23
 CTF-BT-ARKaneEZ-FIX,05:27.166,artur509,2024-03-29
 CTF-BT-ARKaneVF-FIX,05:09.948,fierd_3,2021-06-16
 CTF-BT-ArM00geddon_fix,01:08.114,}ElitE{Bon,2021-07-09
@@ -1232,7 +1235,6 @@ CTF-BT-Coalescence,04:51.282,Zla_Bakica,2021-07-23
 CTF-BT-Coastal-Temple2,01:50.607,Nightwolf`,2022-04-22
 CTF-BT-Coastal-Temple_dbl,03:30.184,p-a-w-e-l,2021-09-16
 CTF-BT-Coconutcaek_vF,01:14.365,Nightwolf`,2013-03-30
-CTF-BT-ColorsV3,01:06.751,~DarK~JoJo~,2026-03-08
 CTF-BT-ComeOn][-i4g,08.391,Dylanbro,2017-01-05
 CTF-BT-CommonMap-VF,22.477,}ElitE{Mike`,2021-06-17
 CTF-BT-CommonMap2,25.438,}ElitE{Bon,2022-01-28
@@ -2040,6 +2042,7 @@ CTF-BT-RoomofDespair-dbl,30.065,Dylanbro,2021-09-25
 CTF-BT-RooVersy,48.036,}ElitE{Mike`,2022-03-03
 CTF-BT-Ross-H,24.275,}ElitE{HellFire`,2017-06-07
 CTF-BT-RottenDungeon-fix,49.453,Dylanbro,2021-06-28
+CTF-BT-Round-n'Round-vLO,17.379,Dylanbro,2022-03-16
 CTF-BT-RoundTable_dbl2,57.399,}ElitE{HellFire`,2019-08-18
 CTF-BT-Royalty-fix2,02:47.342,}ElitE{HellFire`,2021-09-22
 CTF-BT-rp0_V1,44.670,Dylanbro,2021-09-01
@@ -2121,7 +2124,6 @@ CTF-BT-SmallFunMap][,45.076,Dylanbro,2024-03-18
 CTF-BT-SmallSpaceShip,37.254,Dylanbro,2021-11-04
 CTF-BT-SmellyCat_fix,02:28.656,}ElitE{Bon,2012-09-26
 CTF-BT-Smileys-@,01:25.014,~DarK~JoJo~,2025-01-21
-CTF-BT-Snipe_i4g_ez,01:07.113,Nightwolf`,2009-05-08
 CTF-BT-SnowyPark_i4g,37.454,Dylanbro,2012-02-08
 CTF-BT-SnowyRunner,01:34.779,~DarK~JoJo~,2025-04-07
 CTF-BT-Socialism-v3,01:18.999,~DarK~JoJo~,2026-01-19
@@ -2155,6 +2157,7 @@ CTF-BT-SpaceBunniesReloaded1on1_v2,01:45.039,BlueBalls,2022-02-19
 CTF-BT-SpaceCraft,55.003,~DarK~JoJo~,2025-06-04
 CTF-BT-SpacedOut,55.178,Dylanbro,2012-02-06
 CTF-BT-SpaceGenerator-vF,47.898,Nightwolf`,2022-10-09
+CTF-BT-SpaceJam,01:12.068,Dylanbro,2017-12-04
 CTF-BT-SpaceJumpings-fix,10.393,BlueBalls,2022-02-06
 CTF-BT-SpaceTowers,01:55.143,}ElitE{Bon,2012-09-09
 CTF-BT-SpatiumNavis,02:08.258,Dylanbro,2022-03-27
@@ -2269,9 +2272,9 @@ CTF-BT-Translocate2-vf,31.636,Vimper0,2019-06-23
 CTF-BT-Transmutation-fix,01:23.680,Nightwolf`,2022-03-09
 CTF-BT-TrapTemple_fixed,01:35.213,p-a-w-e-l,2021-08-22
 CTF-BT-Trash-v2,01:10.649,OwYeaW,2016-09-30
+CTF-BT-TraXMania,33.968,~DarK~JoJo~,2024-02-07
 CTF-BT-Treasures,30.959,BlueBalls,2022-09-15
 CTF-BT-TricKoMatic,05:58.141,Marmolak,2022-04-13
-CTF-BT-Tricky!,09.053,Dylanbro,2022-03-04
 CTF-BT-TrippyFishy,28.989,Dylanbro,2022-03-30
 CTF-BT-TroitskyCB,02:37.360,OwYeaW,2016-05-04
 CTF-BT-TronLegacy][,02:26.827,~DarK~JoJo~,2024-03-06
@@ -2280,7 +2283,6 @@ CTF-BT-TTFAF-forCrackSpider-v3,01:37.609,Nightwolf`,2022-04-21
 CTF-BT-TurbineAssault,06:48.908,artur509,2023-01-02
 CTF-BT-TurboCrypt,09.080,~DarK~JoJo~,2025-01-21
 CTF-BT-TurboEgypt,15.949,~DarK~JoJo~,2025-04-10
-CTF-BT-TurboNexus,10.080,~DarK~JoJo~,2026-03-26
 CTF-BT-Tutorial-v1,22.835,Dylanbro,2017-07-02
 CTF-BT-Tyler_fix,02:13.994,Nightwolf`,2013-04-21
 CTF-BT-Ubiquitous-V2,01:47.208,BlueBalls,2021-12-01
