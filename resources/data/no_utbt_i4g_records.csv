@@ -296,6 +296,7 @@ CTF-BT-(Cal-Maz)Fulinyx,27.739,}ElitE{HellFire`,2021-09-10
 CTF-BT-(Cals)ExTRaTERresTriAl_fix3,01:11.941,~DarK~JoJo~,2026-05-21
 CTF-BT-(CAM)-LavaArena-fix,10.115,Nightwolf`,2017-01-02
 CTF-BT-(CAM)LavaSpeedy-fix,10.201,Nightwolf`,2022-10-16
+CTF-BT-(CC)LittleRush-dbl,21.126,}ElitE{Mike`,2020-09-05
 CTF-BT-(CC)WhyNat-dbl,38.349,Dylanbro,2022-03-10
 CTF-BT-(cere)ButterBlocks[v3],35.993,}ElitE{HellFire`,2022-10-09
 CTF-BT-(CN)Academy-vF,01:44.965,Nightwolf`,2019-06-12
@@ -510,7 +511,6 @@ CTF-BT-(inf)ected_fix,01:28.551,Nightwolf`,2014-02-04
 CTF-BT-(itsadam)-map7v2,01:30.786,~DarK~JoJo~,2024-03-10
 CTF-BT-(J)AngelOfDeath,01:24.219,}ElitE{HellFire`,2021-09-27
 CTF-BT-(J)EvilutioN,01:23.495,OwYeaW,2016-11-18
-CTF-BT-(Ja)UnderTheSand-v2,02:34.160,}ElitE{Mike`,2017-06-14
 CTF-BT-(JJ)Neutralizator,01:45.565,Nightwolf`,2022-04-09
 CTF-BT-(JJ)Psylo-v2,01:50.672,Nightwolf`,2013-05-26
 CTF-BT-(JJ)Recon-V2,02:06.708,Nightwolf`,2014-03-31
@@ -883,14 +883,12 @@ CTF-BT-3876,16.140,}ElitE{Bon,2021-08-13
 CTF-BT-4838281-V4,01:20.153,Dylanbro,2023-02-05
 CTF-BT-4newbzI,16.898,Dylanbro,2021-06-09
 CTF-BT-4newbzIIXL-fix,01:34.119,BlueBalls,2022-01-18
-CTF-BT-4newbzz-vLO,10.805,Nightwolf`,2022-10-01
 CTF-BT-5Min-Level1,11.451,Nightwolf`,2021-03-28
 CTF-BT-5Min-Level2,14.317,Nightwolf`,2021-03-09
 CTF-BT-5Min-Level3,11.164,Nightwolf`,2021-05-08
 CTF-BT-5Min-Level4,11.151,Nightwolf`,2022-03-05
 CTF-BT-5Min-Level5,11.681,BlueBalls,2022-06-24
 CTF-BT-64-seconds,43.884,~DarK~JoJo~,2026-03-01
-CTF-BT-8-seconds-vF,05.356,julius,2024-07-03
 CTF-BT-82Roomsplz_dbl,01:38.408,BlueBalls,2022-01-25
 CTF-BT-8Bits,04:52.099,~DarK~JoJo~,2024-02-26
 CTF-BT-=Castle_i4g-v2,01:33.056,}ElitE{Bon,2017-06-23
@@ -1131,6 +1129,7 @@ CTF-BT-Blazing-v3,01:04.993,Dylanbro,2013-02-10
 CTF-BT-Bleargh-v4,01:24.611,OwYeaW,2016-06-06
 CTF-BT-BlitzAce,54.475,}ElitE{Bon,2017-12-17
 CTF-BT-Blizzards,53.209,Dylanbro,2011-09-08
+CTF-BT-Blox,02:04.305,fierd_1,2014-02-21
 CTF-BT-Blueberrycaek-vF,43.089,~DarK~JoJo~,2025-06-07
 CTF-BT-BlueVsRed-fix,06.125,Nightwolf`,2016-11-08
 CTF-BT-Bonket,30.588,Nightwolf`,2019-03-18
@@ -1529,7 +1528,6 @@ CTF-BT-GrandCanyon-v3,01:37.396,~DarK~JoJo~,2026-01-25
 CTF-BT-Grapecaek-v2,12.163,Nightwolf`,2022-10-21
 CTF-BT-Graspv3,53.962,~DarK~JoJo~,2026-03-18
 CTF-BT-GraveDigger,41.900,}ElitE{HellFire`,2019-09-01
-CTF-BT-GraveMorden,12.512,BlueBalls,2022-02-13
 CTF-BT-GravitronBL_fix2,02:16.107,Nightwolf`,2022-04-07
 CTF-BT-GravityGunV2,01:54.346,Nightwolf`,2022-04-24
 CTF-BT-GreatGetaway_i4g,01:27.278,Dylanbro,2011-11-19
@@ -1729,6 +1727,7 @@ CTF-BT-LastHour,01:02.114,~DarK~JoJo~,2026-03-09
 CTF-BT-Lava,47.151,}ElitE{HellFire`,2021-08-22
 CTF-BT-Lava-Tea-Party-v3,02:33.836,Dylanbro,2013-05-17
 CTF-BT-LavaCastle,47.528,Dylanbro,2022-03-17
+CTF-BT-LavaCaves-dbl,23.029,Dylanbro,2021-07-09
 CTF-BT-LavaFactory2b,42.211,~DarK~JoJo~,2026-02-19
 CTF-BT-LavaFactory_TURBO-EDITION,25.798,*WeeDy*,2021-07-02
 CTF-BT-LaVaFlame,01:11.648,}ElitE{Bon,2013-06-22
@@ -2209,6 +2208,7 @@ CTF-BT-Tartarus-v2,02:48.963,Nightwolf`,2017-12-01
 CTF-BT-TartarusEZ-v2,03:00.310,p-a-w-e-l,2021-07-28
 CTF-BT-TBIG-vF,31.538,~DarK~JoJo~,2024-03-10
 CTF-BT-TechDiff-v5,01:39.659,TDN-Berserker,2017-08-10
+CTF-BT-TechMorden,21.886,BlueBalls,2022-05-20
 CTF-BT-TechnicalChallenges-v3,08:11.466,Dylanbro,2014-11-06
 CTF-BT-TEFY-fix,56.778,Dylanbro,2021-04-29
 CTF-BT-tehfuk,36.780,}ElitE{HellFire`,2020-08-20
@@ -2355,6 +2355,7 @@ CTF-BT-XD-Impulse1point5-dbl,36.755,}ElitE{Bon,2021-07-21
 CTF-BT-XD-Nightmare-dbl,17.658,Nightwolf`,2017-11-30
 CTF-BT-XidiaGoldMine,01:02.243,~DarK~JoJo~,2024-02-13
 CTF-BT-XIVS,01:25.309,~DarK~JoJo~,2024-03-14
+CTF-BT-XLandMorden,21.298,BlueBalls,2022-03-06
 CTF-BT-Xmas2011&NewYear2012,43.738,~DarK~JoJo~,2026-03-10
 CTF-BT-Xmas2019(EV)(fix),01:38.194,Nightwolf`,2021-03-13
 CTF-BT-XnX-BamboozledRemakeFIX-dbl,01:29.531,Nightwolf`,2021-10-25
