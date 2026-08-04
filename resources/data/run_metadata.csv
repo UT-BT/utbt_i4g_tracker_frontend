@@ -1,6 +1,6 @@
 metric,value
-run_timestamp_utc,2026-08-04T01:51:42.509486+00:00
-total_runtime_seconds,71.00
+run_timestamp_utc,2026-08-04T13:53:23.087876+00:00
+total_runtime_seconds,84.25
 i4g_pages_limit,
 i4g_pages_scraped,123
 i4g_scrape_complete,True
