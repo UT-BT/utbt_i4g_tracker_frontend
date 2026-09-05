@@ -662,7 +662,6 @@ CTF-BT-(NuFc)So-simple,28.462,}ElitE{HellFire`,2012-02-02
 CTF-BT-(NuLL)Concrete-v3,01:15.954,}ElitE{Mike`,2012-10-04
 CTF-BT-(NuMb3R)Temple(v1),01:09.105,Dylanbro,2014-02-01
 CTF-BT-(NW)Required,37.834,Dylanbro,2022-03-25
-CTF-BT-(NW)Research,33.000,Nightwolf`,2022-03-05
 CTF-BT-(ow)Compilatieng-v3,09:48.188,OwYeaW,2015-08-15
 CTF-BT-(ow)Dodgeng][-v2,30.843,*WeeDy*,2019-12-08
 CTF-BT-(ow)Falleng-v3,29.992,Nightwolf`,2022-12-30
@@ -685,8 +684,6 @@ CTF-BT-(ow)RushengV-v2,40.270,Nightwolf`,2019-05-10
 CTF-BT-(ow)RushengVI,24.531,Nightwolf`,2022-11-02
 CTF-BT-(ow)RushengVII-v3,46.284,}ElitE{Bon,2022-01-14
 CTF-BT-(ow)Simpleng,21.837,Nightwolf`,2022-10-06
-CTF-BT-(ow)Speedeng,14.329,Nightwolf`,2013-10-11
-CTF-BT-(ow)Targeteng-v4,01:40.710,}ElitE{Bon,2016-06-18
 CTF-BT-(ow)Targeteng0-v3,01:30.906,}ElitE{Bon,2021-08-13
 CTF-BT-(P)FossilRecource-v1,39.470,Dylanbro,2013-06-02
 CTF-BT-(P)PoseidonsCave-v1,41.030,}ElitE{Mike`,2014-04-27
@@ -939,6 +936,7 @@ CTF-BT-[U-U]-Lives_vF2,28.275,Dylanbro,2017-07-03
 CTF-BT-[U-U]-Scope-v2,42.060,}ElitE{Mike`,2017-01-02
 CTF-BT-[U-U]-TehFactory,35.018,Nightwolf`,2013-10-14
 CTF-BT-[U-U]-TotalNoobish,01:12.912,~DarK~JoJo~,2025-04-30
+CTF-BT-[u4g]Corridors_EvE-fix,50.488,OwYeaW,2021-11-07
 CTF-BT-[u4g]CrystalTomb_EvE-fixed,01:07.312,Nightwolf`,2021-12-11
 CTF-BT-[u4g]LabyrinthV2,02:11.681,}ElitE{Bon,2011-05-15
 CTF-BT-[u4g]WarpSequence_dbl,03:36.706,Nightwolf`,2022-03-20
@@ -1033,6 +1031,7 @@ CTF-BT-Ancrelent,01:11.459,Dylanbro,2021-12-04
 CTF-BT-andACTION-dbl,07.021,BlueBalls,2023-01-21
 CTF-BT-AneurysmFINAL,48.952,Nightwolf`,2022-04-21
 CTF-BT-Anghellic,03:12.539,p-a-w-e-l,2022-11-04
+CTF-BT-AnimeWorld,03:02.872,BlueBalls,2021-11-29
 CTF-BT-AnIntroToBT-fix,34.196,~DarK~JoJo~,2025-04-16
 CTF-BT-AnnanC_vF3,01:38.269,Nightwolf`,2022-04-12
 CTF-BT-AnOdyssey-EZ_fix,01:08.910,BlueBalls,2022-09-14
@@ -1060,7 +1059,6 @@ CTF-BT-Argos,01:12.860,}ElitE{Bon,2017-06-23
 CTF-BT-Aristocratic-vF,01:00.610,Nightwolf`,2014-10-04
 CTF-BT-ARKaneEZ-FIX,05:27.166,artur509,2024-03-29
 CTF-BT-ARKaneVF-FIX,05:09.948,fierd_3,2021-06-16
-CTF-BT-ArM00geddon_fix,01:08.114,}ElitE{Bon,2021-07-09
 CTF-BT-Around_the_buttons,14.823,~DarK~JoJo~,2025-01-21
 CTF-BT-ArrowCrypt_fix,01:14.082,Nightwolf`,2022-04-25
 CTF-BT-ArticFantasy][,02:58.096,Dylanbro,2012-06-13
@@ -1593,10 +1591,12 @@ CTF-BT-HurryUp-v2,47.438,Nightwolf`,2022-04-02
 CTF-BT-Huskus'sAmazingRush-dbl,01:52.004,~DarK~JoJo~,2026-01-20
 CTF-BT-Hydro16-dbl,50.129,~DarK~JoJo~,2026-01-20
 CTF-BT-HydroPlant_fix2,02:16.644,}ElitE{Bon,2012-02-12
+CTF-BT-HydroponicsV4,01:17.591,Nightwolf`,2021-08-11
 CTF-BT-I-got-the-flag-v2,29.833,Dylanbro,2017-11-12
 CTF-BT-I4Games_v2,01:16.236,Dylanbro,2021-10-23
 CTF-BT-Ibarra-v2,52.550,Dylanbro,2021-08-01
 CTF-BT-Ice-ClimbV2,24.719,~DarK~JoJo~,2026-05-16
+CTF-BT-Ice-Monsters-v2,01:03.852,}ElitE{Bon,2013-05-26
 CTF-BT-Ice_base_fix_v2,33.834,Nightwolf`,2013-12-18
 CTF-BT-Ice_fix_vf,31.211,Dylanbro,2012-07-13
 CTF-BT-Icecaek-fix,32.750,~DarK~JoJo~,2025-03-17
@@ -1828,7 +1828,6 @@ CTF-BT-MoJoJoJo_i4g,49.984,~DarK~JoJo~,2026-02-25
 CTF-BT-Monopoly,53.372,fierd_6,2012-06-13
 CTF-BT-MonsterFactory-fix,01:02.079,~DarK~JoJo~,2026-05-16
 CTF-BT-MontargisRegion,57.382,~DarK~JoJo~,2026-04-17
-CTF-BT-Moon,28.560,Dylanbro,2017-06-17
 CTF-BT-mordor,39.845,TDN-Berserker,2020-01-08
 CTF-BT-MorningGround,44.845,Nightwolf`,2012-10-09
 CTF-BT-Morphium-v4,01:33.218,Nightwolf`,2022-04-17
@@ -2104,6 +2103,7 @@ CTF-BT-SimpleChallenge-v2,02.810,Nightwolf`,2022-03-15
 CTF-BT-Simplicity,09.044,Nightwolf`,2017-01-20
 CTF-BT-Sinister,38.159,Dylanbro,2012-11-11
 CTF-BT-Sirrington,49.494,Ensiferum,2021-11-13
+CTF-BT-Skaarj-Ship,01:44.137,Nightwolf`,2016-01-31
 CTF-BT-SkaarjBT-V3,02:30.978,BlueBalls,2022-02-04
 CTF-BT-SkaarjBTEZ-V1,02:36.199,BlueBalls,2022-02-02
 CTF-BT-SkaarjInvasionV4-[I4G],01:36.730,p-a-w-e-l,2023-03-28
